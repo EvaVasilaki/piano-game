@@ -1,0 +1,13 @@
+/programs/game/emsdk/
+
+/programs/game/game
+/programs/game/game.exe
+/programs/game/game.html
+/programs/game/game.js
+/programs/game/game.wasm
+/programs/game/game.data
+
+/docs/game.html
+/docs/game.js
+/docs/game.wasm
+/docs/game.data
